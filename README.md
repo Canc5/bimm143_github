@@ -11,4 +11,6 @@ My classwork from [BIMM143 S25](https://bioboot.github.io/bimm143_S25/) at UC Sa
 
 - 08 [Breast cancer mini project](https://github.com/Canc5/bimm143_github/blob/main/class08/class08.md)
 
-- 09 
+- 09 [Halloween Candy Mini-Project](https://github.com/Canc5/bimm143_github/blob/main/class09/class09.md)
+
+- 10  
